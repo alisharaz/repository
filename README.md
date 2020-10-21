@@ -1,4 +1,4 @@
-<doctype.html>
+<!doctype html>
 <html>
   <title> My name is alisha</title>
   <body>
