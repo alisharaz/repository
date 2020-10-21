@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <title> My name is alisha</title>
+  <head> My name is alisha</head>
   <body>
     <h1> I am new here</h1>
     </body>
